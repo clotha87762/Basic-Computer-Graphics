@@ -1,0 +1,14 @@
+﻿已經開始建置於 2015/3/25 下午 09:19:46。
+     1>節點 2 (build 目標) 上的專案 "C:\Users\ChihMin\Desktop\CGHW1\CG_HW1\CG_HW1\CG_HW1\CG_HW1\CG_HW1.vcxproj"。
+       專案檔包含 ToolsVersion="12.0"。這個工具組可能未知或遺漏，在此情況下，您可以安裝適當的 MSBuild 版本，否則由於原則的緣故，組建將會強制為特定的 ToolsVersion。專案將被視為包含 ToolsVersion="4.0"。詳細資訊請參閱 http://go.microsoft.com/fwlink/?LinkId=291333。
+     1>InitializeBuildStatus:
+         正在變更時間戳記 "Release\CG_HW1.unsuccessfulbuild"。
+       ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\CL.exe /c /Zi /nologo /W3 /WX- /O2 /Oi /Oy- /GL /D WIN32 /D NDEBUG /D _CONSOLE /D _UNICODE /D UNICODE /Gm- /EHsc /MD /GS /Gy /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Release\\" /Fd"Release\vc100.pdb" /Gd /TC /analyze- /errorReport:prompt glm.c
+         glm.c
+     1>c:\users\chihmin\desktop\cghw1\cg_hw1\cg_hw1\cg_hw1\cg_hw1\glm.h(16): fatal error C1083: 無法開啟包含檔案: 'freeglut\glut.h': No such file or directory
+     1>專案 "C:\Users\ChihMin\Desktop\CGHW1\CG_HW1\CG_HW1\CG_HW1\CG_HW1\CG_HW1.vcxproj" (build 目標) 建置完成 -- 失敗。
+
+建置失敗。
+
+經過時間 00:00:00.20
